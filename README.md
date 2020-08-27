@@ -1,3 +1,5 @@
+<img src="https://einstein.ai/static/images/pages/home-einstein.svg" width="100px">
+
 # Einstein Vision and Language OpenAPI Spec
 The OpenAPI specification file for the Einstein Vision and Language APIs.
 
